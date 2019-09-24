@@ -12,3 +12,4 @@
 
 //DFGDFG
 //package seleniumpackage;
+package seleniumpackage;
